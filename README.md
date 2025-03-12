@@ -4,8 +4,6 @@
 
 ## Key Features:
 - Send and receive text messages
-- Support for group chats
-- Send media files (images, videos)
 - Push notifications
 - Clean and intuitive user interface
 
